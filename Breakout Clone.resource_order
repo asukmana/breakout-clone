@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings":[
+    {"name":"tiles","order":4,"path":"folders/Objects/tiles.yy",},
+    {"name":"tiles","order":13,"path":"folders/Sprites/tiles.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"ob_ball","order":1,"path":"objects/ob_ball/ob_ball.yy",},
+    {"name":"ob_game","order":3,"path":"objects/ob_game/ob_game.yy",},
+    {"name":"ob_paddle","order":2,"path":"objects/ob_paddle/ob_paddle.yy",},
+    {"name":"ob_tile_blue","order":1,"path":"objects/ob_tile_blue/ob_tile_blue.yy",},
+    {"name":"ob_tile_green","order":2,"path":"objects/ob_tile_green/ob_tile_green.yy",},
+    {"name":"ob_tile_grey","order":3,"path":"objects/ob_tile_grey/ob_tile_grey.yy",},
+    {"name":"ob_tile_orange","order":4,"path":"objects/ob_tile_orange/ob_tile_orange.yy",},
+    {"name":"ob_tile_parent","order":5,"path":"objects/ob_tile_parent/ob_tile_parent.yy",},
+    {"name":"ob_tile_pink","order":5,"path":"objects/ob_tile_pink/ob_tile_pink.yy",},
+    {"name":"ob_tile_red","order":6,"path":"objects/ob_tile_red/ob_tile_red.yy",},
+    {"name":"ob_tile_yellow","order":7,"path":"objects/ob_tile_yellow/ob_tile_yellow.yy",},
+    {"name":"sp_paddle","order":2,"path":"sprites/sp_paddle/sp_paddle.yy",},
+    {"name":"sp_tile_blue","order":1,"path":"sprites/sp_tile_blue/sp_tile_blue.yy",},
+    {"name":"sp_tile_green","order":2,"path":"sprites/sp_tile_green/sp_tile_green.yy",},
+    {"name":"sp_tile_grey","order":3,"path":"sprites/sp_tile_grey/sp_tile_grey.yy",},
+    {"name":"sp_tile_orange","order":4,"path":"sprites/sp_tile_orange/sp_tile_orange.yy",},
+    {"name":"sp_tile_pink","order":5,"path":"sprites/sp_tile_pink/sp_tile_pink.yy",},
+    {"name":"sp_tile_red","order":6,"path":"sprites/sp_tile_red/sp_tile_red.yy",},
+    {"name":"sp_tile_yellow","order":7,"path":"sprites/sp_tile_yellow/sp_tile_yellow.yy",},
+    {"name":"spr_ball","order":4,"path":"sprites/spr_ball/spr_ball.yy",},
+  ],
+}
