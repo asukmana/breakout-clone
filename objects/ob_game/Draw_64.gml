@@ -3,7 +3,7 @@ draw_set_font(fn_game);
 draw_set_color(c_aqua);
 
 draw_text(5, room_height - 40, "Score: " + string(player_score));
-draw_text(100, 300, "speed: " + string(ob_ball.phy_speed));
+//draw_text(100, 300, "speed: " + string(ob_ball.phy_speed));
 
 for (var i = 0; i < player_live; i += 1)
 {
