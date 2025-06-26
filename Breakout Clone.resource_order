@@ -6,6 +6,7 @@
   "ResourceOrderSettings":[
     {"name":"ob_ball","order":1,"path":"objects/ob_ball/ob_ball.yy",},
     {"name":"ob_game","order":3,"path":"objects/ob_game/ob_game.yy",},
+    {"name":"ob_live_left","order":6,"path":"objects/ob_live_left/ob_live_left.yy",},
     {"name":"ob_paddle","order":2,"path":"objects/ob_paddle/ob_paddle.yy",},
     {"name":"ob_tile_blue","order":1,"path":"objects/ob_tile_blue/ob_tile_blue.yy",},
     {"name":"ob_tile_green","order":2,"path":"objects/ob_tile_green/ob_tile_green.yy",},

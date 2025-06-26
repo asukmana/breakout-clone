@@ -41,6 +41,7 @@
     {"id":{"name":"readme","path":"notes/readme/readme.yy",},},
     {"id":{"name":"ob_ball","path":"objects/ob_ball/ob_ball.yy",},},
     {"id":{"name":"ob_game","path":"objects/ob_game/ob_game.yy",},},
+    {"id":{"name":"ob_live_left","path":"objects/ob_live_left/ob_live_left.yy",},},
     {"id":{"name":"ob_paddle","path":"objects/ob_paddle/ob_paddle.yy",},},
     {"id":{"name":"ob_tile_black","path":"objects/ob_tile_black/ob_tile_black.yy",},},
     {"id":{"name":"ob_tile_blue","path":"objects/ob_tile_blue/ob_tile_blue.yy",},},
