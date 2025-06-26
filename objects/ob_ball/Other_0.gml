@@ -6,7 +6,12 @@ if y > room_height
 }
 
 instance_destroy();
-instance_create_layer(start_position_x, start_position_y, "Instances", ob_ball)
+instance_create_layer(ob_paddle.x, ob_paddle.y - 32 , "Instances", ob_ball)
+
 is_start = false;
-//instance_create_layer(room_width / 2, room_height / 2, "Instances", ob_ball);
-//game_restart();
+
+if ob_game.player_live = 0
+{
+	//DON'T put alarm in draw or draw gui event, because only run once per event
+	ob_game.alarm[0] = game_get_speed(gamespeed_fps);
+}

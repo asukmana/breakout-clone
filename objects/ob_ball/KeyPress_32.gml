@@ -1,5 +1,7 @@
-if (is_start = false)
+//don't move if player live = 0
+if (is_start = false) and (ob_game.player_live > 0)
 {
+	//if is_start is true give impulse to move, stop detecting spacebar if is_start is false
 	is_start = true
 	
 	var _dir = point_direction(x, y, irandom_range(0, room_width), choose(0,180));
