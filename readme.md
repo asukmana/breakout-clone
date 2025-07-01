@@ -1,4 +1,4 @@
-# Pong clone
+# Breakout clone
 
 This is a clone of Breakout for Gamemaker. 
 It's a game where the player's goal is to destroy rows of bricks by repeatedly bouncing a ball off a paddle into them.
